@@ -4,13 +4,13 @@ affiliation: Fordham University
 email: mpradhan@fordham.edu
 keywords: minimal academic
 #linkedin: https://www.linkedin.com/
-cv_link: /assets/cv/CVacademic.pdf
-cv_icon: /assets/img/resume2.png
+cv_link: ./assets/cv/CVacademic.pdf
+cv_icon: ./assets/img/resume2.png
 #avatar: ./assets/img/avatar.png
-avatar: /assets/img/Mitali_Headshot.jpg
+avatar: ./assets/img/Mitali_Headshot.jpg
 google_analytics: UA-111540567-4
-favicon: /assets/img/favicon.png
-favicon_dark: /assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 description: Personal homepage for Mitali Pradhan.
 #canonical: https://strata-academic.yyliu.net/
 remote_theme: yaoyao-liu/strata-academic
