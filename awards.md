@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: awards
-#permalink: /awards/
+permalink: /awards/
 ---
 
 ## Awards
