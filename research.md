@@ -20,7 +20,7 @@ There is a growing disagreement between developing and developed countries over 
 **Role of State Capacity in Export Facilitation: Evidence from South Asia**
 
 **Abstract:**
-In this paper, I use firm level data to from the World Bank Enterprise Survey database, to investigate the state of hard and soft infrastructure within firms in South Asia. Some of these firms are located within an export processing zone or an industrial park facilitated by the government. This in theory should help them overcome bureaucratic bottlenecks and ease capacity constraints. By comparing firms located within such industrial enclaves with those located outside, I investigate whether the ground reality confirms theory and, in that case, whether firms in the latter category indeed fare better in terms of exports prospects. I am now in the process of estimating the impact of such state facilitated infrastructure on exports, and I intend to complete the paper shortly.
+In this paper, I use firm level data from the World Bank Enterprise Survey database, to investigate the state of hard and soft infrastructure within firms in South Asia. Some of these firms are located within an export processing zone or an industrial park facilitated by the government. This in theory should help them overcome bureaucratic bottlenecks and ease capacity constraints. By comparing firms located within such industrial enclaves with those located outside, I investigate whether the ground reality confirms theory and, in that case, whether firms in the latter category indeed fare better in terms of exports prospects. I am now in the process of estimating the impact of such state facilitated infrastructure on exports, and I intend to complete the paper shortly.
 
 **Relevant Work Experience**
 
